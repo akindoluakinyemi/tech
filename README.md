@@ -7,6 +7,9 @@ this is a tech discussion
 * two
 * three
 
+### colab example
+
+this is the [notebook](https://colab.research.google.com/drive/1I4w8PJbEAAfiOrifAg2julEuldCrVYOg?usp=sharing)
 
 ### gist
 
